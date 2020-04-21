@@ -12,12 +12,12 @@ Aliyun oss filesystem storage adapter for laravel 5. You can use Aliyun OSS just
 ##Installation
 In order to install AliOSS-storage, just add
 
-    "jacobcyl/ali-oss-storage": "^2.1"
+    "sothird3003/ali-oss-storage": "dev-master"
 
 to your composer.json. Then run `composer install` or `composer update`.  
 Or you can simply run below command to install:
 
-    "composer require jacobcyl/ali-oss-storage:^2.1"
+    "composer require jacobcyl/ali-oss-storage:dev-master"
     
 Then in your `config/app.php` add this line to providers array:
 ```php
